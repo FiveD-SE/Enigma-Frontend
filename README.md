@@ -1,11 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
-    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
-  </a>
+    <h1 align="center"><b>Enigma</b></h>
+  </br>
+  
+![Enigma Demo](./Enigma/assets/enigma.gif)
 </p>
-
-<h1 align="center"><b>Enigma</b></h>
 
 ## THÀNH VIÊN NHÓM
 
@@ -17,10 +16,28 @@
 | 4   | 22521145 | Trương Lê Vĩnh Phúc | Thành viên |          [![](https://img.shields.io/badge/sloweyyy-%2324292f.svg?style=flat-square&logo=github)](https://github.com/sloweyyy) | 22521145@gm.uit.edu.vn |
 | 5   | 22521314 | Trần Tuệ Tánh       | Thành viên |          [![](https://img.shields.io/badge/TrTueTah-%2324292f.svg?style=flat-square&logo=github)](https://github.com/TrTueTah) | 22521314@gm.uit.edu.vn |
 
-## GIỚI THIỆU MÔN HỌC
+## GIỚI THIỆU DỰ ÁN
 
--   **Tên môn học:** Lập trình trên thiết bị di động
--   **Mã môn học:** SE346
--   **Mã lớp:** SE346.O21
--   **Năm học:** HK2 (2023 - 2024)
--   **Giảng viên**: ThS. Huỳnh Tuấn Anh, giảng viên Khoa Công Nghệ Phần Mềm, trường Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh
+Enigma - Tạo và bán áo thun, túi tote độc đáo theo yêu cầu
+Khám phá thế giới sáng tạo với Enigma, ứng dụng cho phép bạn thiết kế và bán áo thun, túi tote độc đáo theo ý tưởng của riêng mình.
+
+Tính năng nổi bật:
+
+-   Tạo áo thun và túi tote độc đáo: Biến ý tưởng của bạn thành hiện thực với công cụ thiết kế trực quan và dễ sử dụng.
+-   Chọn mẫu mockup: Chọn từ nhiều mẫu áo thun và túi tote mockup để xem trước thiết kế của bạn.
+-   Tùy chỉnh màu sắc và kích cỡ: Lựa chọn màu sắc và kích cỡ phù hợp cho sản phẩm của bạn.
+-   In ấn chất lượng cao: Enigma hợp tác với các nhà cung cấp in ấn uy tín để đảm bảo sản phẩm của bạn được in ấn chất lượng cao.
+-   Đăng bán sản phẩm: Chia sẻ thiết kế của bạn với cộng đồng và bắt đầu kiếm tiền từ việc bán hàng.
+-   Quản lý đơn hàng: Theo dõi đơn hàng của bạn một cách dễ dàng và hiệu quả.
+-   In-App
+
+Lợi ích:
+
+-   Tự do sáng tạo: Thỏa sức sáng tạo và tạo ra những sản phẩm độc đáo, thể hiện cá tính riêng của bạn.
+-   Kiếm tiền online: Bán sản phẩm của bạn và kiếm lợi nhuận từ việc kinh doanh trực tuyến.
+-   Nền tảng dễ sử dụng: Giao diện thân thiện, dễ sử dụng, phù hợp với mọi đối tượng.
+-   Hỗ trợ khách hàng chuyên nghiệp: Enigma hỗ trợ bạn trong suốt quá trình thiết kế, sản xuất và bán hàng.
+
+Download Enigma ngay hôm nay và bắt đầu hành trình sáng tạo của bạn!
+
+<img src="/Enigma/assets/images/PosterOG.png" />
