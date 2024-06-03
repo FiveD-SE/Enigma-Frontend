@@ -29,7 +29,7 @@ Tính năng nổi bật:
 -   In ấn chất lượng cao: Enigma hợp tác với các nhà cung cấp in ấn uy tín để đảm bảo sản phẩm của bạn được in ấn chất lượng cao.
 -   Đăng bán sản phẩm: Chia sẻ thiết kế của bạn với cộng đồng và bắt đầu kiếm tiền từ việc bán hàng.
 -   Quản lý đơn hàng: Theo dõi đơn hàng của bạn một cách dễ dàng và hiệu quả.
--   In-App
+-   Hệ thống tiền tệ: Nhận tiền từ chênh lệch giữa giá bán và giá gốc sản phẩm và sử dụng chúng trong đơn hàng tiếp theo.
 
 Lợi ích:
 
