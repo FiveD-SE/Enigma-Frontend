@@ -1,9 +1,9 @@
-<!-- Banner -->
 <p align="center">
-    <h1 align="center"><b>Enigma</b></h>
-  </br>
-  
-![Enigma Demo](./Enigma/assets/enigma.gif)
+    <h1 align="center"><b>Enigma</b></h1>
+</p>
+
+<p align="center">
+    <img src="./Enigma/assets/enigma.gif" alt="Enigma Demo">
 </p>
 
 ## THÀNH VIÊN NHÓM
