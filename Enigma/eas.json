@@ -1,0 +1,49 @@
+{
+    "cli": {
+        "version": ">= 9.1.0"
+    },
+    "build": {
+        "development": {
+            "developmentClient": true,
+            "distribution": "internal",
+            "env": {
+                "REACT_APP_FIREBASE_API_KEY": "AIzaSyAMVHj9Ur6vFUSbmL-FsEnILiVy5AV4c50",
+                "REACT_APP_FIREBASE_AUTH_DOMAIN": "enigma-dropshipping.firebaseapp.com",
+                "REACT_APP_FIREBASE_PROJECT_ID": "enigma-dropshipping",
+                "REACT_APP_FIREBASE_STORAGE_BUCKET": "enigma-dropshipping.appspot.com",
+                "REACT_APP_FIREBASE_MESSAGING_SENDER_ID": "619858009977",
+                "REACT_APP_FIREBASE_APP_ID": "1:619858009977:web:b370e9d7451b2c9e6619a8",
+                "REACT_APP_FIREBASE_MEASUREMENT_ID": "G-Q45W43BXVF",
+                "REACT_APP_STABILITY_API_KEY": "sk-Tnn5zZohTtJ6jhR7oZ4WdZ3bPAwhbsV4LIr2qyNheCxRRPXi",
+                "REACT_APP_PHOTOROOM_API_KEY": "e9ea55c6c6271050729fffd7e24928c30e532048",
+                "REACT_APP_GHN_TOKEN": "eb548c84-1366-11ef-be43-f60ece3fb56e",
+                "REACT_APP_GHN_SHOP_ID": "3145957"
+            }
+        },
+        "preview": {
+            "distribution": "internal",
+            "android": {
+                "buildType": "apk"
+            }
+        },
+        "production": {
+            "autoIncrement": true,
+            "env": {
+                "REACT_APP_FIREBASE_API_KEY": "AIzaSyAMVHj9Ur6vFUSbmL-FsEnILiVy5AV4c50",
+                "REACT_APP_FIREBASE_AUTH_DOMAIN": "enigma-dropshipping.firebaseapp.com",
+                "REACT_APP_FIREBASE_PROJECT_ID": "enigma-dropshipping",
+                "REACT_APP_FIREBASE_STORAGE_BUCKET": "enigma-dropshipping.appspot.com",
+                "REACT_APP_FIREBASE_MESSAGING_SENDER_ID": "619858009977",
+                "REACT_APP_FIREBASE_APP_ID": "1:619858009977:web:b370e9d7451b2c9e6619a8",
+                "REACT_APP_FIREBASE_MEASUREMENT_ID": "G-Q45W43BXVF",
+                "REACT_APP_STABILITY_API_KEY": "sk-Tnn5zZohTtJ6jhR7oZ4WdZ3bPAwhbsV4LIr2qyNheCxRRPXi",
+                "REACT_APP_PHOTOROOM_API_KEY": "e9ea55c6c6271050729fffd7e24928c30e532048",
+                "REACT_APP_GHN_TOKEN": "eb548c84-1366-11ef-be43-f60ece3fb56e",
+                "REACT_APP_GHN_SHOP_ID": "3145957"
+            }
+        }
+    },
+    "submit": {
+        "production": {}
+    }
+}
