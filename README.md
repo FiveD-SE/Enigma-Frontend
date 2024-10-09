@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="./Enigma/assets/enigma.gif" alt="Enigma Demo">
+    <img src="./Enigma/assets/enigma.gif" alt="Enigma Demo"> 
 </p>
 
 ## THÀNH VIÊN NHÓM
